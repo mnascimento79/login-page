@@ -1,7 +1,7 @@
 # login-page
 PHP, mySQL and CSS
 
-OBRIGADO POR UTILIZAR 
+OBRIGADO POR UTILIZAR, 
 NO FICHEIRO db.php  NA PASTA ASSETS CONFIGURE OS SEGUINTES DADOS:
 
 $servername = "localhost";
